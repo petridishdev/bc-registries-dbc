@@ -1,13 +1,13 @@
 {
 	"folders": [
 		{
-			"path": "bc-registries-business-card-docs"
-		},
-		{
 			"path": "bc-registries-business-filings-ui"
 		},
 		{
 			"path": "bc-registries-lear"
+		},
+		{
+			"path": ".devcontainer"
 		}
 	],
 	"settings": {

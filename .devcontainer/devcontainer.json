@@ -47,6 +47,6 @@
 
 	// Mount the bcgov folder in the container
 	"mounts": [
-		"source=${localEnv:HOME}/projects/bcgov,target=/home/vscode/bcgov,type=bind,consistency=cached"
+		"source=${localEnv:DBC_WORKSPACE_PATH},target=/home/vscode/bc-registries-dbc,type=bind,consistency=cached"
 	]
 }
